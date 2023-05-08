@@ -14,7 +14,7 @@ The website will have the following features:
 
 2. Puzzle with Clues: The puzzle will have a minimum of 5 clues, where each clue will lead the users to the next clue. The clues can be in the form of text, videos, 3D animations, games, links, or anything else that the users have to find or solve. 
 
-3. Dead-Ends: The puzzle will have a minimum of 2 dead-ends, where the users will not be able to proceed further. The dead-ends will test the user's perseverance and problem-solving skills.
+3. Dead-Ends: The puzzle will have a minimum of 2 dead-ends, where the users will not be able to proceed further. The dead-ends will test the user's perseverance, curiousity, time management, critical thinking and problem-solving skills.
 
 4. Solution: The final clue will lead the users to the treasure. The solution will test the user's eye for detail and problem-solving skills.
 
