@@ -227,7 +227,7 @@ if(questionCount < quizDB.length){
 
         <h3>solve puzzle to find the</h3>
         <h3>TREASURE CHEST</h3>
-        <a href="file:///C:/elitmus/puzzle%20game/puzzlegame.html">SOLVE PUZZLE</a>
+        <a href="puzzlegame.html">SOLVE PUZZLE</a>
     `;
     showScore.classList.remove('scoreArea');
     }
