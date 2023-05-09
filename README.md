@@ -34,13 +34,21 @@ The website will have the following features:
 ANSWERS:
 
 LEVEL 1: better life
+
 LEVEL 2: 15
+
 LEVEL 3: Grammar
+
 LEVEL 4: 6.4
+
 LEVEL 5: Description
+
 LEVEL 6: Ans
+
 LEVEL 7: The men were in a band
+
 LEVEL 8: Alphabet
+
 
 
 
