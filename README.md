@@ -1,5 +1,7 @@
 # treasurehunt2002
 
+THE PROJECT IS LIVE HOSTED AT: https://imashmishra.github.io/treasurehunt2002/login
+
 Designing an Interactive Puzzle to Assess Soft Skills
 
 Introduction:
@@ -19,3 +21,25 @@ The website will have the following features:
 4. Solution: The final clue will lead the users to the treasure. The solution will test the user's eye for detail and problem-solving skills.
 
 5. Progress Tracking: All the progress/user data such as time taken by each user for every step, solution accuracy, etc., will be stored for every user.
+
+
+
+
+
+
+ANSWERS:
+
+LEVEL 1: better life
+LEVEL 2: 15
+LEVEL 3: Grammar
+LEVEL 4: 6.4
+LEVEL 5: Description
+LEVEL 6: Ans
+LEVEL 7: The men were in a band
+LEVEL 8: Alphabet
+
+
+
+
+
+THIS PROJECT HAS MADE BY ASHMITA MISHRA
